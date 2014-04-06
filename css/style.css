@@ -1,3 +1,4 @@
+* { margin: 0; padding: 0; }
 header { padding: 20px 20px 0;}
 nav { width: 800px; margin: 0 auto; }
 .container-fluid .navbar-nav { float: none; text-align: center;}
@@ -9,3 +10,6 @@ nav { width: 800px; margin: 0 auto; }
 .banner { margin:0 ; padding: 0; }
 .noticias { clear: both; }
 footer { text-align: right;}
+.intro { margin: 0 auto; }
+.info, .term { display: block; margin-top: 10px; }
+.clear { clear: both; }
